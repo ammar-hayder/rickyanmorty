@@ -1,0 +1,32 @@
+{
+  "name": "fake-medium",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-jest": "^24.9.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "enzyme-adapter-react-16.3": "^1.7.2",
+    "jasmine-enzyme": "^7.1.2",
+    "jest": "^24.9.0",
+    "mo-js": "^0.288.2",
+    "moment": "^2.24.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "react-test-renderer": "^16.12.0",
+    "redux": "^4.0.0",
+    "redux-mock-store": "^1.5.4",
+    "redux-thunk": "^2.3.0",
+    "sinon": "^8.1.0",
+    "styled-components": "^3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
