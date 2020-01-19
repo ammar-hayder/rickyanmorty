@@ -1,9 +1,10 @@
-Api endpoint: `https://api.myjson.com/bins/19dtxc`
+```
+Api endpoint: `https://rickandmortyapi.com/api/character/`
 
 
-  1. git clone https://github.com/ohansemmanuel/fake-medium.git
+  1. git clone https://github.com/aligarian/rickyanmorty.git
 
-  2. cd fake-medium
+  2. cd rickyanmorty
 
   3. npm install
 
